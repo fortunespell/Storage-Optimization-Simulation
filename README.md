@@ -37,6 +37,7 @@ Main Execution: Creates a FlashStorage object. --->  Creates a Simulation object
 
 ![image](https://github.com/user-attachments/assets/e2a252ae-7280-4f02-9475-7b03046e3323)
 
+    Metrics: {'time': [0, 1, 2, 3, 4], 'read_speed': [25.565523345928874, 26.96690539580012, 19.808398168725503, 13.706971739587656, 29.9163058591927], 'write_speed': [6.293557610386996, 9.714573193542654, 5.680930992421066, 14.438508573508194, 14.649249408484396]}
 
 ## Future improvements:
 
