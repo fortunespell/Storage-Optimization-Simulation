@@ -35,6 +35,9 @@ Main Execution: Creates a FlashStorage object. --->  Creates a Simulation object
 
 ``pattern: Select the access pattern for the simulation.``
 
+![image](https://github.com/user-attachments/assets/e2a252ae-7280-4f02-9475-7b03046e3323)
+
+
 ## Future improvements:
 
 1.Implement wear leveling algorithms to distribute writes evenly and extend lifespan.
